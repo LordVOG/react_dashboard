@@ -1,9 +1,6 @@
 .container{
-	margin-top: 50px;
+	margin-top: 60px;
 	display: flex;
 }
 
-.others{
-	flex: 4;
-}
 
