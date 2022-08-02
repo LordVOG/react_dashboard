@@ -147,7 +147,7 @@ export const userData = [
       id: 1,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -156,7 +156,7 @@ export const userData = [
       id: 2,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -165,7 +165,7 @@ export const userData = [
       id: 3,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -174,7 +174,7 @@ export const userData = [
       id: 4,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -183,7 +183,7 @@ export const userData = [
       id: 5,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -192,7 +192,7 @@ export const userData = [
       id: 6,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -201,7 +201,7 @@ export const userData = [
       id: 7,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -210,7 +210,7 @@ export const userData = [
       id: 8,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -219,7 +219,7 @@ export const userData = [
       id: 9,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
@@ -228,7 +228,7 @@ export const userData = [
       id: 10,
       name: "Apple Airpod",
       img:
-        "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
       status: "active",
       price: "$150.00",
