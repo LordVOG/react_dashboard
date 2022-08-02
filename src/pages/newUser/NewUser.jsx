@@ -41,15 +41,15 @@ export default function NewUser() {
             <label for="other">Other</label>
           </div>
         </div>
-		<div className="newUserItem">
-			<label>Active</label>
-			<select name="active" id="active" className="newUserSelect">
-				<option value="yes">Yes</option>
-				<option value="no">No</option>
-			</select>
-		</div>
-		<button className="newUserButton">Create</button>
+        <div className="newUserItem">
+          <label>Active</label>
+          <select name="active" id="active" className="newUserSelect">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+          </select>
+        </div>
       </form>
+      <button className="newUserButton">Create</button>
     </div>
   );
 }
